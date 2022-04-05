@@ -11,14 +11,14 @@ function Home() {
     <div className='card'>
         <h2>smartphones</h2>
         <img src={phones} alt=""/>
-        <p>We sell quality smart phnes at affordable prices</p>
+        <p>We sell quality smart phones at affordable prices</p>
         <button> <Link to ="/products">View Phones</Link> </button>
         </div>
 
         <div className='card'>
         <h2>headphons</h2>
         <img src={head} alt=""/>
-        <p>We sell quality smart phnes at affordable prices</p>
+        <p>We sell quality headphnes at affordable prices</p>
         <button> <Link to ="/products">View head</Link> </button>
     </div>
     </div>
@@ -28,14 +28,14 @@ function Home() {
     <div className='card'>
         <h2>pen drives</h2>
         <img src={drive} alt=""/>
-        <p>We sell quality smart phnes at affordable prices</p>
+        <p>We sell quality pendrives at affordable prices</p>
         <button> <Link to ="/products">View drive</Link> </button>
     </div>
 
     <div className='card'>
         <h2>phone cover</h2>
         <img src={cover} alt=""/>
-        <p>We sell quality smart phnes at affordable prices</p>
+        <p>We sell quality phones cover at affordable prices</p>
         <button> <Link to ="/products">View cover</Link> </button>
     </div>
 
